@@ -2,7 +2,6 @@
 #Created by Kanti
 import os
 import time
-import pyshorteners
 from time import sleep
 
 os.system('clear')
